@@ -1,0 +1,19 @@
+{
+  "name": "vitest-npm-ts",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "allure run -- vitest run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "allure": "^3.0.0-beta.3",
+    "@types/node": "^20.17.10",
+    "allure-js-commons": "^3.0.7",
+    "allure-vitest": "^3.0.7",
+    "vitest": "^2.1.8"
+  }
+}
